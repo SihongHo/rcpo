@@ -2,7 +2,8 @@
 
 Code of ICML paper: Constrained Reinforcement Learning Under Model Mismatch, https://arxiv.org/pdf/2405.01327
 
-This code of deep RL version is modified from CPO and PCPO. You may check https://github.com/jachiam/cpo, and follow the instruction to set up the environment for gather and circle tasks. Note that you may need to request the license for MuJoCo.
+## DRL
+The code of deep RL version (in rcpo/cpo) is modified from CPO and PCPO. You may check https://github.com/jachiam/cpo, and follow the instruction to set up the environment for gather and circle tasks. Note that you may need to request the license for MuJoCo.
 
 Once set up the environment, you can run experiments using 
 
